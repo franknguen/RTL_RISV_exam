@@ -1,0 +1,45 @@
+{
+    "team": [
+        {
+            "name": "Imesh Balasuriya",
+            "email": "email@eng.pdn.ac.lk",
+            "eNumber": "E/17/018"
+        },
+        {
+            "name": "Akila Karunanayake",
+            "email": "email@eng.pdn.ac.lk",
+            "eNumber": "E/17/154"
+        },
+        {
+            "name": "Tharindu Rathnayake",
+            "email": "email@eng.pdn.ac.lk",
+            "eNumber": "E/17/286"
+        }
+    ],
+    "supervisors": [
+        {
+            "name": "Dr. Isuru Nawinne",
+            "email": "isurunawinne@eng.pdn.ac.lk"
+        },
+        {
+            "name": "Dr. Mahanama Wickramasinghe",
+            "email": "mahanamaw@eng.pdn.ac.lk"
+        },
+        {
+            "name": "Prof. Roshan Ragel",
+            "email": "roshanr@eng.pdn.ac.lk"
+        },
+        {
+            "name": "Dr. Isuru Dasanayake",
+            "email": "isurud@ee.pdn.ac.lk"
+        }
+    ],
+    "media": [
+        {
+            "type": "youtube",
+            "title": "",
+            "url": "#"
+        }
+    ],
+    "tags": ["Final Year Projects"]
+}
